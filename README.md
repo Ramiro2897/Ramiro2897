@@ -6,15 +6,16 @@ Actualmente, estoy desarrollando un sistema de rifas con las siguientes caracter
 
 - **Backend**: Implementado en **Node.js** con **Express** y conectado a **PostgreSQL** usando **TypeORM**.
 - **Frontend**: Construido con **React**, usando **Vite** para el desarrollo rápido y **Axios** para las peticiones HTTP.
-- **Gestión de pagos**: Implementación de **Wompi** para pagos en línea en Colombia.
+- **Gestión de pagos**: Implementación de **ePayco** para pagos en línea en Colombia.
 
 ---
 
 ### 🛠 Tecnologías que utilizo
 
-- **Backend**: Node.js · Express · TypeORM · PostgreSQL
-- **Frontend**: React · Vite · Axios · CSS Modules
-- **Infraestructura**: Render · GitHub · Railway
+- **Backend**: Node.js · Express · TypeORM · PostgreSQL · Java · Spring Boot
+- **Frontend**: React · TypeScript · Vite · CSS · HTML5 · JavaScript · CSS Modules
+- **Gestión de Pagos**: ePayco · Wompi
+- **Infraestructura**: Render · Railway · GitHub
 
 ---
 
@@ -23,7 +24,7 @@ Actualmente, estoy desarrollando un sistema de rifas con las siguientes caracter
 - **Sistema de Rifas**: Un sistema que permite a los usuarios comprar boletos para participar en rifas, con un panel de administración donde los números vendidos se gestionan.  
   La lógica de la compra está pensada para validar y bloquear números ya comprados.
 
-- **Backend para producción**: Estructura de backend modular en **Node.js** con **PostgreSQL**, ideal para despliegues rápidos en plataformas como **Render**.
+- **Backend para producción**: Estructura de backend modular en **Node.js** con **PostgreSQL**, ideal para despliegues rápidos en plataformas como **Render** y **Railway**.
 
 ---
 
@@ -32,3 +33,4 @@ Actualmente, estoy desarrollando un sistema de rifas con las siguientes caracter
 Sigo aprendiendo todos los días para mejorar mis habilidades y asegurarme de escribir código limpio y eficiente. Me gusta la idea de construir soluciones útiles para las personas a través de la tecnología.
 
 Si estás interesado en colaborar o tienes algún proyecto en mente, ¡hablemos!
+
